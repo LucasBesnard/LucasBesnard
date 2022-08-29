@@ -43,7 +43,7 @@
                     <a href="https://www.association-passerelle89.fr/" target="_blank" rel="noreferrer">Association Passerelle 🤝</a>
                 </h3>
                 <p align="center">
-                    <a href="https://www.association-passerelle89.fr/" target="_blank" rel="noreferrer"> <img src="./static/chillflix.gif" alt="association-passerelle"/> </a>
+                    <a href="https://www.association-passerelle89.fr/" target="_blank" rel="noreferrer"> <img src="./assets/association-passerelle.gif" alt="association-passerelle"/> </a>
                     <p align="center">
                         A chill radio from youtube to listen Lo-Fi music without being disturbed
                     </p>
