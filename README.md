@@ -76,7 +76,8 @@
             </td>
         </tr>
   </table>
-  
+ </div>
+ 
   <!-- Technos -->
 <h1 align="center">Langues et outils 🛠</h1>
 
@@ -106,4 +107,18 @@
     <a href="https://www.ovhcloud.com/fr/" target="_blank"> <img src="./assets/ovh.png" alt="ovh" width="50" height="50"/> </a>
      <a href="https://www.o2switch.fr/" target="_blank"> <img src="./assets/o2switch.png" alt="ovh" width="50" height="50"/> </a>
     <a href="https://heroku.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/heroku/heroku-icon.svg" alt="heroku" width="50" height="50"/> </a>
-</div>
+
+<!-- Contact -->
+<h1 align="center">How to get in touch?</h1>
+<h3 align="center">If you need my expertise for your project 👇</h3>
+<p align="center">
+    - <a href="https://twitter.com/messages/compose?recipient_id=1270463775309795333" target="_blank" rel="noopener"> You can send me message on twitter</a>
+</p> 
+<p align="center">
+    - <a href="mailto:codeoz.pro@gmail.com">Send email</a>
+    <p style='margin-bottom: 20px'>
+    </p>
+</p>  
+<p align="center">
+    <img align="center" src="https://media.giphy.com/media/z5iCvo1oCbqt7ukMQs/giphy.gif">
+</p>
