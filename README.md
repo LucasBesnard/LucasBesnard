@@ -63,7 +63,9 @@
                 </p>
             </td>
             <td width="50%">
-                <h3 align="center">Quizz Game 🧠</h3>
+                <h3 align="center">
+                    <a href="https://github.com/LucasBesnard/Quizz_Game" target="_blank" rel="noreferrer">Quizz Game 🧠</a>
+                </h3>
                 <p align="center">
                     <a href="https://github.com/LucasBesnard/Quizz_Game" target="_blank" rel="noreferrer"> <img src="./assets/quizz-game.gif" alt="quizz-game"/> </a>
                     <a href="https://github.com/LucasBesnard/Quizz_Game" target="blank"><img src="https://img.shields.io/npm/dy/unbox-js" alt="unbox-js-badge" /></a>
