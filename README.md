@@ -1,6 +1,7 @@
 <h1 align="center">Je suis Lucas Besnard</h1>
 <h2 align="center">Actuellement à la recherche d'un CDI</h2>
-🌐 Je recherche principalement :
+    <h3 align="center">🌐 Je recherche principalement :</h3>
+
 💻 Poste visé : Développeur web full stack ou Développeur Web Front-end
 📜 En CDI ou CDD
 📅 : Immédiatement 
