@@ -63,7 +63,7 @@
                 </p>
             </td>
             <td width="50%">
-                <h3 align="center">Intégrations CSS<a href="https://www.w3schools.com/css/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="50" height="50"/> </a></h3>
+                <h3 align="center">Quizz Game</h3>
                 <p align="center">
                     <a href="https://www.npmjs.com/package/unbox-js" target="_blank" rel="noreferrer"> <img src="./static/unbox-js.gif" alt="unbox-js"/> </a>
                     <a href="https://www.npmjs.com/package/unbox-js" target="blank"><img src="https://img.shields.io/npm/dy/unbox-js" alt="unbox-js-badge" /></a>
