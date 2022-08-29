@@ -103,7 +103,7 @@
 <h3 align="center">Others</h3>
 <p align="center">
     <a href="https://git-scm.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="50" height="50"/> </a>
-    <a href=" https://www.ovhcloud.com/fr/" target="_blank"> <img src="./assets/ovh.png" alt="ovh" width="50" height="50"/> </a>
-     <a href=" https://www.o2switch.fr/" target="_blank"> <img src="./assets/o2witch.png" alt="ovh" width="50" height="50"/> </a>
+    <a href="https://www.ovhcloud.com/fr/" target="_blank"> <img src="./assets/ovh.png" alt="ovh" width="50" height="50"/> </a>
+     <a href="https://www.o2switch.fr/" target="_blank"> <img src="./assets/o2witch.png" alt="ovh" width="50" height="50"/> </a>
     <a href="https://heroku.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/heroku/heroku-icon.svg" alt="heroku" width="50" height="50"/> </a>
 </div>
