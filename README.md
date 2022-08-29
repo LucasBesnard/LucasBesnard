@@ -1,4 +1,7 @@
 <h1 align="center">Je suis Lucas Besnard</h1>
+<p style="margin: 15px;" align="center">
+       <img src="https://readme-typing-svg.herokuapp.com?duration=3000&color=FF0000&center=true&vCenter=true&lines=Développeur+Fullstack;10+projets;30+cafés">
+</p>
 <h2 align="center">Actuellement à la recherche d'un CDI</h2>
     <h3 align="center">🌐 Je recherche principalement :</h3>
       <h3 align="center">💻 Poste visé : Développeur web full stack ou Développeur Web Front-end</h3>
