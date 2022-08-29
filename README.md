@@ -32,7 +32,7 @@
                     <a href="https://lucasbesnard.fr/" target="_blank" rel="noreferrer">Portfolio 📕</a>
                 </h3>
                 <p align="center">
-                    <a href="https://lucasbesnard.fr/" target="_blank" rel="noreferrer"> <img src="./static/oz-blog.gif" alt="portfolio"/> </a>
+                    <a href="https://lucasbesnard.fr/" target="_blank" rel="noreferrer"> <img src="./assets/portfolio.gif" alt="portfolio"/> </a>
                     <p align="center">
                         This is my own blog where I share my knowledges
                     </p>
