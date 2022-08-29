@@ -13,7 +13,6 @@
 
 <!-- Intro -->
 <p style="margin: 15px;" align="center">
-       <img src="https://readme-typing-svg.herokuapp.com?duration=3000&color=FF0000&center=true&vCenter=true&lines=Développeur+Fullstack;10+projets;30+cafés">
     <h2 align="center">🎓 Titulaire d'un Bac+2 Développeur Web et Web Mobile passer avec l'école Webforce3.</h2>
     <h3 align="center">J'ai effectué ma formation de Développeur Web et Web Mobile dans un centre spécialiste du numérique Webforce 3. Lors de cette formation, j'ai acquis de nombreuses compétences et connaissances dans ce domaine.Lors de ma formation, j'ai réalisé un stage pour l'association Passerelle ou j'avais pour mission de réalisé un site web dans son entièreté.</h3>
 </p>
