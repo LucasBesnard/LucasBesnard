@@ -53,10 +53,10 @@
         <tr>
             <td width="50%">
                 <h3 align="center">
-                    <a href="https://cacabox-tv.com/" target="_blank" rel="noreferrer">Blog Wf3 📹</a>
+                    <a href="https://github.com/LucasBesnard/Blog_WF3" target="_blank" rel="noreferrer">Blog Wf3 📹</a>
                 </h3>
                 <p align="center">
-                    <a href="https://cacabox-tv.com/" target="_blank" rel="noreferrer"> <img src="./assets/blog_wf3.gif" alt="blog_wf3"/> </a>
+                    <a href="https://github.com/LucasBesnard/Blog_WF3" target="_blank" rel="noreferrer"> <img src="./assets/blog_wf3.gif" alt="blog_wf3"/> </a>
                     <p align="center">
                         A netflix like for the Youtube Channel Cacabox TV
                     </p>
@@ -65,8 +65,8 @@
             <td width="50%">
                 <h3 align="center">Quizz Game 🧠</h3>
                 <p align="center">
-                    <a href="https://www.npmjs.com/package/unbox-js" target="_blank" rel="noreferrer"> <img src="./assets/quizz-game.gif" alt="quizz-game"/> </a>
-                    <a href="https://www.npmjs.com/package/unbox-js" target="blank"><img src="https://img.shields.io/npm/dy/unbox-js" alt="unbox-js-badge" /></a>
+                    <a href="https://github.com/LucasBesnard/Quizz_Game" target="_blank" rel="noreferrer"> <img src="./assets/quizz-game.gif" alt="quizz-game"/> </a>
+                    <a href="https://github.com/LucasBesnard/Quizz_Game" target="blank"><img src="https://img.shields.io/npm/dy/unbox-js" alt="unbox-js-badge" /></a>
                     <p align="center">
                         npm repository
                     </p>
