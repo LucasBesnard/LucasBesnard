@@ -101,7 +101,7 @@
 </p>
 
 
-<h3 align="center">Others</h3>
+<h3 align="center">Autres</h3>
 <p align="center">
     <a href="https://git-scm.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="50" height="50"/> </a>
     <a href="https://www.ovhcloud.com/fr/" target="_blank"> <img src="./assets/ovh.png" alt="ovh" width="50" height="50"/> </a>
@@ -109,13 +109,12 @@
     <a href="https://heroku.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/heroku/heroku-icon.svg" alt="heroku" width="50" height="50"/> </a>
 
 <!-- Contact -->
-<h1 align="center">How to get in touch?</h1>
-<h3 align="center">If you need my expertise for your project 👇</h3>
+<h1 align="center">Me Contacter 👇</h1>
 <p align="center">
-    - <a href="https://twitter.com/messages/compose?recipient_id=1270463775309795333" target="_blank" rel="noopener"> You can send me message on twitter</a>
+    - <a href="https://www.linkedin.com/in/lucas-besnard-077469212/" target="_blank" rel="noopener">Message privé sur Linkedin</a>
 </p> 
 <p align="center">
-    - <a href="mailto:codeoz.pro@gmail.com">Send email</a>
+    - <a href="mailto:lucasbesnard89@gmail.com">Envoyer un mail</a>
     <p style='margin-bottom: 20px'>
     </p>
 </p>  
