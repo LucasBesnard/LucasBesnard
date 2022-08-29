@@ -70,8 +70,8 @@
                 <a href="https://github.com/LucasBesnard/Blog_WF3" target="_blank" rel="noreferrer">Blog Wf3 📹</a>
             </h3>
             <p align="center">
-                <a href="https://www.association-passerelle89.fr/" target="_blank" rel="noreferrer"> <img
-                        src="./assets/association-passerelle.gif" alt="association-passerelle" /> </a>
+                <a href="https://github.com/LucasBesnard/Blog_WF3" target="_blank" rel="noreferrer"> <img
+                        src="./assets/blog-wf3.gif" alt="blog_wf3" /> </a>
             <p align="center">
                 <a href="https://symfony.com" target="_blank" rel="noreferrer"><img
                         src="https://symfony.com/logos/symfony_black_03.svg" alt="symfony" width="40" height="40" />
@@ -86,8 +86,8 @@
                 <a href="https://github.com/LucasBesnard/Quizz_Game" target="_blank" rel="noreferrer">Quizz Game 🧠</a>
             </h3>
             <p align="center">
-                <a href="https://www.association-passerelle89.fr/" target="_blank" rel="noreferrer"> <img
-                        src="./assets/association-passerelle.gif" alt="association-passerelle" /> </a>
+                <a href="https://github.com/LucasBesnard/Quizz_Game" target="_blank" rel="noreferrer"> <img
+                        src="./assets/quizz-game.gif" alt="association-passerelle" /> </a>
             <p align="center">
                 <a href="https://symfony.com" target="_blank" rel="noreferrer"><img
                         src="https://symfony.com/logos/symfony_black_03.svg" alt="symfony" width="40" height="40" />
