@@ -37,8 +37,8 @@
                 </h3>
                 <p align="center">
                     <a href="https://lucasbesnard.fr/" target="_blank" rel="noreferrer"> <img src="./assets/portfolio.gif" alt="portfolio"/> </a>
-                  <p align="center">
-                    <a href="https://reactjs.org/" target="_blank" rel="noreferrer">                                                                                                             <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a>
+                    <p align="center">
+                        This is my own blog where I share my knowledges
                     </p>
                 </p>
             </td>
@@ -49,7 +49,11 @@
                 <p align="center">
                     <a href="https://www.association-passerelle89.fr/" target="_blank" rel="noreferrer"> <img src="./assets/association-passerelle.gif" alt="association-passerelle"/> </a>
                     <p align="center">
-                        ReactJs<a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a>
+                      <a href="https://symfony.com" target="_blank" rel="noreferrer">                                                                                                                  <img src="https://symfony.com/logos/symfony_black_03.svg" alt="symfony" width="40" height="40"/> 
+                       </a>
+                           
+                      <a href="https://www.mysql.com/" target="_blank" rel="noreferrer">                                                                                                                <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> 
+                       </a>
                     </p>
             </p>
             </td>
@@ -62,7 +66,11 @@
                 <p align="center">
                     <a href="https://github.com/LucasBesnard/Blog_WF3" target="_blank" rel="noreferrer"> <img src="./assets/blog_wf3.gif" alt="blog_wf3"/> </a>
                     <p align="center">
-                        A netflix like for the Youtube Channel Cacabox TV
+                      <a href="https://symfony.com" target="_blank" rel="noreferrer">                                                                                                                  <img src="https://symfony.com/logos/symfony_black_03.svg" alt="symfony" width="40" height="40"/> 
+                       </a>
+                           
+                      <a href="https://www.mysql.com/" target="_blank" rel="noreferrer">                                                                                                                <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> 
+                       </a>
                     </p>
                 </p>
             </td>
@@ -74,7 +82,11 @@
                     <a href="https://github.com/LucasBesnard/Quizz_Game" target="_blank" rel="noreferrer"> <img src="./assets/quizz-game.gif" alt="quizz-game"/> </a>
                     <a href="https://github.com/LucasBesnard/Quizz_Game" target="blank"><img src="https://img.shields.io/npm/dy/unbox-js" alt="unbox-js-badge" /></a>
                     <p align="center">
-                        npm repository
+                      <a href="https://symfony.com" target="_blank" rel="noreferrer">                                                                                                                  <img src="https://symfony.com/logos/symfony_black_03.svg" alt="symfony" width="40" height="40"/> 
+                       </a>
+                           
+                      <a href="https://www.mysql.com/" target="_blank" rel="noreferrer">                                                                                                                <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> 
+                       </a>
                     </p>
             </p>
             </td>
@@ -87,7 +99,7 @@
 
 <p align="center">
 
-<h3 align="center">Front</h3>
+<h3 align="center">Front-end</h3>
 <p align="center">
     <a href="https://www.w3.org/html/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="50" height="50"/> </a>
     <a href="https://www.w3schools.com/css/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="50" height="50"/> </a>
@@ -97,7 +109,7 @@
      <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a>
 </p>
 
-<h3 align="center">Backend</h3>
+<h3 align="center">Back-end</h3>
 <p align="center">
         <a href="https://www.php.net" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/> </a>
     <a href="https://symfony.com" target="_blank" rel="noreferrer"> <img src="https://symfony.com/logos/symfony_black_03.svg" alt="symfony" width="40" height="40"/> </a>
