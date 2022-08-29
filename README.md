@@ -1,4 +1,4 @@
-<h1 align="center">Bonjour je suis <img src="https://readme-typing-svg.herokuapp.com?duration=2000&color=FF0000&center=true&vCenter=true&lines=Lucas+Besnard;developpeur+fullstack;symfony+for+life"></h1>
+<h1 align="center">Bonjour je suis <img src="https://readme-typing-svg.herokuapp.com?duration=2000&color=FF0000&lines=Lucas+Besnard;developpeur+fullstack;symfony+for+life"></h1>
 
 <!-- Intro -->
 
