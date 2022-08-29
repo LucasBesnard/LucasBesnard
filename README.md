@@ -56,7 +56,7 @@
                     <a href="https://cacabox-tv.com/" target="_blank" rel="noreferrer">Blog Wf3 📹</a>
                 </h3>
                 <p align="center">
-                    <a href="https://cacabox-tv.com/" target="_blank" rel="noreferrer"> <img src="./static/ccbox-tv.gif" alt="ccbox-tv"/> </a>
+                    <a href="https://cacabox-tv.com/" target="_blank" rel="noreferrer"> <img src="./assets/blog_wf3.gif" alt="blog_wf3"/> </a>
                     <p align="center">
                         A netflix like for the Youtube Channel Cacabox TV
                     </p>
