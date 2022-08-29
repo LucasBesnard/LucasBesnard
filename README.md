@@ -51,7 +51,7 @@
                     <p align="center">
                       <a href="https://symfony.com" target="_blank" rel="noreferrer"><img src="https://symfony.com/logos/symfony_black_03.svg" alt="symfony" width="40" height="40"/> </a>
                            
-                      <a href="https://www.mysql.com/" target="_blank" rel="noreferrer">                                                                                                                <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a>
+                      <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a>
                     </p>
             </p>
             </td>
@@ -64,11 +64,9 @@
                 <p align="center">
                     <a href="https://github.com/LucasBesnard/Blog_WF3" target="_blank" rel="noreferrer"> <img src="./assets/blog_wf3.gif" alt="blog_wf3"/> </a>
                     <p align="center">
-                      <a href="https://symfony.com" target="_blank" rel="noreferrer">                                                                                                                  <img src="https://symfony.com/logos/symfony_black_03.svg" alt="symfony" width="40" height="40"/> 
-                       </a>
+                      <a href="https://symfony.com" target="_blank" rel="noreferrer"><img src="https://symfony.com/logos/symfony_black_03.svg" alt="symfony" width="40" height="40"/> </a>
                            
-                      <a href="https://www.mysql.com/" target="_blank" rel="noreferrer">                                                                                                                <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> 
-                       </a>
+                      <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a>
                     </p>
                 </p>
             </td>
@@ -80,11 +78,9 @@
                     <a href="https://github.com/LucasBesnard/Quizz_Game" target="_blank" rel="noreferrer"> <img src="./assets/quizz-game.gif" alt="quizz-game"/> </a>
                     <a href="https://github.com/LucasBesnard/Quizz_Game" target="blank"><img src="https://img.shields.io/npm/dy/unbox-js" alt="unbox-js-badge" /></a>
                     <p align="center">
-                      <a href="https://symfony.com" target="_blank" rel="noreferrer">                                                                                                                  <img src="https://symfony.com/logos/symfony_black_03.svg" alt="symfony" width="40" height="40"/> 
-                       </a>
+                      <a href="https://symfony.com" target="_blank" rel="noreferrer"><img src="https://symfony.com/logos/symfony_black_03.svg" alt="symfony" width="40" height="40"/> </a>
                            
-                      <a href="https://www.mysql.com/" target="_blank" rel="noreferrer">                                                                                                                <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> 
-                       </a>
+                      <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a>
                     </p>
             </p>
             </td>
