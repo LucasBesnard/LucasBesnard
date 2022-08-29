@@ -107,7 +107,8 @@
                 <p align="center">
                     <a href="https://github.com/LucasBesnard/Blog_WF3" target="_blank" rel="noreferrer"> <img
                             src="./assets/blog_wf3.gif" alt="blog_wf3" /> </a>
-                <p align="center">
+                    
+                <p align="center" style="margin: 15px;">
                     <a href="https://symfony.com" target="_blank" rel="noreferrer"><img
                             src="https://symfony.com/logos/symfony_black_03.svg" alt="symfony" width="40" height="40" />
                     </a>
