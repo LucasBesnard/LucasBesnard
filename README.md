@@ -42,6 +42,7 @@
                 <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img
                         src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg"
                         alt="react" width="40" height="40" /> </a>
+                <a href="https://www.ovhcloud.com/fr/" target="_blank"> <img src="./assets/ovh.png" alt="ovh" width="50" height="50"/> </a>
             </p>
             </p>
         </td>
@@ -60,6 +61,7 @@
                 <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"><img
                         src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg"
                         alt="mysql" width="40" height="40" /> </a>
+                   <a href="https://www.o2switch.fr/" target="_blank"> <img src="./assets/o2switch.png" alt="ovh" width="50" height="50"/> </a>
             </p>
             </p>
         </td>
